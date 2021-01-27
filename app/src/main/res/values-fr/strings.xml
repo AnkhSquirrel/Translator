@@ -39,7 +39,7 @@
     <string name="rate_us_Summary">Rate or/and Review The Translator in PlayStore</string>
     <string name="report_issue">Report an Issue</string>
     <string name="report_issue_summary">Raise an issue at GitHub</string>
-    <string name="save">Save</string>
+    <string name="save">Sauvegarder</string>
     <string name="save_string_message">New translation string is generated as \'%s\'!</string>
     <string name="search_hint">Search…</string>
     <string name="select_question">Select %s?</string>
